@@ -13,7 +13,7 @@ I created this website to be a publicly accessible repository of my research and
 - I received my **Bachelors of Arts** in Applied Mathematics and Statistics from Macalester College (Twin Cities, MN) in 2024. My minors were **Anthropology** and **Community & Global Health**.
 - While at Macalester, I completed an Honors project using causal inference in professional soccer data.
 - I am currently a research fellow in the Durham-Chapel Hill area, and my research right now uses **longitudinal modeling** to look at associations between **puberty and cancer**.
-- My [CV](Tomer-CV-website.pdf) has more information.
+- My [CV](Tomer_CV_website.pdf) has more information, if you're curious.
 
 # A bit about me, outside of math:
 
