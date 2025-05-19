@@ -8,7 +8,6 @@ title: home page + a bit about me
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>My Awesome Website</title>
     <style>
         /* Basic styling for the navbar and dropdown */
         body {
