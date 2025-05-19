@@ -5,7 +5,9 @@ title: Home Page + About Me
 
 ## Hi, I'm Paige (she/her) and welcome to my website!
 
-I created this website to be a publicly accessible repository of my research and personal projects. I'm excited to have this platform to share my work and life with you.
+I created this website to be a publicly accessible repository of my research and personal projects. I'm excited to have this platform to share my work and life with you. 
+
+!(IMG_9802.HEIC)
 
 # Here's a bit more about me, academically:
 
