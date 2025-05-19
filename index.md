@@ -18,9 +18,10 @@ I created this website to be a publicly accessible repository of my research and
 
 - I'm from the **Seattle area** in Washington, so, this summer, I'll be moving back home for the first time in 5 years.
 - I love reading, running, and resting: my big 3!
-      - I have had more free time this past year, so I have challenged myself to pick up books and genres that I normally would not read (i.e., *Straight* by Dick Francis).
-      - For running, I started about 2 years ago after playing soccer all of my life. I'm planning to run my first half marathon this fall in Seattle!
-      - And resting is resting, self-explanatory. I love laying in the sun or in my bed with my orange cat, Goose.
+  - I have had more free time this past year, so I have challenged myself to pick up books and genres that I normally would not read (i.e., *Straight* by Dick Francis).
+  - I started running about 2 years ago after playing soccer all of my life. I'm planning to run my first half marathon this fall in Seattle!
+  - And resting is resting, self-explanatory. I love laying in the sun or in my bed with my orange cat, Goose.
+- Outside of these, I also love to do yoga, try new food + recipes, and drink good coffee. 
 
 
 ## Links and Contact
