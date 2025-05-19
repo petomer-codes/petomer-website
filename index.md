@@ -14,14 +14,14 @@ I created this website to be a publicly accessible repository of my research and
 - While at Macalester, I completed an Honors project using causal inference in professional soccer data.
 - I am currently a research fellow in the Durham-Chapel Hill area, and my research right now uses **longitudinal modeling** to look at associations between **puberty and cancer**.
 
-## A bit about me, personally:
+## A bit about me, outside of math:
 
 - I'm from the **Seattle area** in Washington, so, this summer, I'll be moving back home for the first time in 5 years.
 - I love reading, running, and resting: my big 3!
   - I have had more free time this past year, so I have challenged myself to pick up books and genres that I normally would not read (i.e., *Straight* by Dick Francis).
   - I started running about 2 years ago after playing soccer all of my life. I'm planning to run my first half marathon this fall in Seattle!
   - And resting is resting, self-explanatory. I love laying in the sun or in my bed with my orange cat, Goose.
-- Outside of these, I also love to do yoga, try new food + recipes, and drink good coffee. 
+- I also love to do yoga, try new food + recipes, and drink good coffee. 
 
 
 ## Links and Contact
