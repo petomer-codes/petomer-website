@@ -1,6 +1,6 @@
 ---
 layout: post
-title: home page + about me
+title: Home Page + About Me
 ---
 
 # Hi, I'm Paige (she/her) and welcome to my website!
@@ -10,7 +10,7 @@ I created this website to be a publicly accessible repository of my research and
 ## Here's a bit more about me, academically:
 
 - I am starting my PhD program in **Biostatistics** this fall at the University of Washington. I'll have a post soon about my application process.
-- I received my **Bachelors of Arts** in Applied Mathematics and Statistics from Macalester College in 2024. My minors were **Anthropology** and **Community & Global Health**. M
+- I received my **Bachelors of Arts** in Applied Mathematics and Statistics from Macalester College (Twin Cities, MN) in 2024. My minors were **Anthropology** and **Community & Global Health**.
 - While at Macalester, I completed an Honors project using causal inference in professional soccer data.
 - I am currently a research fellow in the Durham-Chapel Hill area, and my research right now uses **longitudinal modeling** to look at associations between **puberty and cancer**.
 
@@ -23,16 +23,13 @@ I created this website to be a publicly accessible repository of my research and
   - And resting is resting, self-explanatory. I love laying in the sun or in my bed with my orange cat, Goose.
 - I also love to do yoga, try new food + recipes, and drink good coffee. 
 
+## My Posts 
+
+Here’s a quick overview of some of my ongoing work:
+
+- [Research on Causal Inference](#)
+- [Longitudinal Analysis in Health](#) (forthcoming)
 
 ## Links and Contact
 
 If you're interested in my research or have any questions, feel free to [contact me](mailto:petomer@icloud.com).
-
-## My Projects
-
-Here’s a quick overview of some of my ongoing work (forthcoming):
-
-- [Research on Causal Inference](#)
-- [Longitudinal Analysis in Health](#)
-
-
