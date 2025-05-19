@@ -16,3 +16,35 @@ Here's a bit more about me, academically:
 A bit about me, personally: 
 * I'm actually from the Seattle area in Washington, so I am looking forward to being closer to my parents after 5 years!
 * I love reading, running, and resting: my big 3! I have had more free time this past year, so I have challenged myself to picking up books and genres that I normally would not read (i.e. _Straight_ by Dick Francis). In running, I started about 2 years ago after playing soccer all of my life. I'm hoping to run my frist half marathon this fall in Seattle! And resting is resting, self explanatory -- I love my bed! 
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Awesome Website</title>
+    <style>
+        /* Add your CSS here */
+    </style>
+</head>
+<body>
+    <!-- Navbar -->
+    <div class="navbar">
+        <a href="#home">Home</a>
+        <a href="#about">About</a>
+        <div class="dropdown">
+            <button class="dropbtn">Services</button>
+            <div class="dropdown-content">
+                <a href="#">Web Design</a>
+                <a href="#">Web Development</a>
+                <a href="#">SEO</a>
+            </div>
+        </div>
+        <a href="#contact">Contact</a>
+    </div>
+
+    <!-- Page content -->
+    <h1>Welcome to My Awesome Website!</h1>
+    <p>This is a paragraph of text on my website.</p>
+</body>
+</html>
