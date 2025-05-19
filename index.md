@@ -3,7 +3,7 @@ layout: post
 title: Home page
 ---
 
-Hi -- I'm Paige and welcome to my website! I created this website to be a publicly accessible trajectory of my research and personal projects. I'm very excited to have this platform to share my work and life with you. \
+Hi -- I'm Paige and welcome to my website! I created this website to be a publicly accessible trajectory of my research and personal projects. I'm very excited to have this platform to share my work and life with you. 
 
 Here's a bit more about me, academically: 
 * My name is Paige (she/her) and I have _finally_ made a website to share my research and life with you! 
