@@ -1,12 +1,11 @@
 ---
 layout: post
-title: Home page
+title: home page + a bit about me
 ---
 
-Hi -- I'm Paige and welcome to my website! I created this website to be a publicly accessible trajectory of my research and personal projects. I'm very excited to have this platform to share my work and life with you. 
+Hi -- I'm Paige (she/her) and welcome to my website! I created this website to be a publicly accessible trajectory of my research and personal projects. I'm very excited to have this platform to share my work and life with you. 
 
 Here's a bit more about me, academically: 
-* My name is Paige (she/her) and I have _finally_ made a website to share my research and life with you! 
 * I am starting my PhD program in Biostatistics this fall at the University of Washington -- I'll have a post soon about my application process. 
 * I received my Bachelors of Arts in Applied Mathematics and Statistics from Macalester College in 2024. My minors were Anthropology and Community & Global Health. I loved my time at Macalester and in the Twin Cities, MN.
 * While at Macalester, I completed an Honors project using causal ifnerence in professional women's soccer data. 
