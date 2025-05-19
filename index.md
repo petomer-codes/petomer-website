@@ -1,6 +1,5 @@
 ---
 layout: post
-title: home page + a bit about me
 ---
 
 <!DOCTYPE html>
@@ -90,6 +89,7 @@ title: home page + a bit about me
             padding: 20px;
         }
     </style>
+    <title> home page + a bit about me <title>
 </head>
 <body>
     <!-- Navbar -->
