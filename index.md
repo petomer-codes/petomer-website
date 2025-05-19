@@ -9,7 +9,7 @@ Here's a bit more about me, academically:
 * My name is Paige (she/her) and I have _finally_ made a website to share my research and life with you! 
 * I am starting my PhD program in Biostatistics this fall at the University of Washington -- I'll have a post soon about my application process. 
 * I received my Bachelors of Arts in Applied Mathematics and Statistics from Macalester College in 2024. My minors were Anthropology and Community & Global Health. I loved my time at Macalester and in the Twin Cities, MN.
-* While at Macalester, I completed an Honors project using causal ifnerence in professional women's soccer data, and it was so much fun. 
+* While at Macalester, I completed an Honors project using causal ifnerence in professional women's soccer data. 
 * I am currently a research fellow in the Durham-Chapel Hill area, and my research right now uses longitudinal modeling to look at associations between puberty and cancer.
 \
 \
