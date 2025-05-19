@@ -7,7 +7,7 @@ title: Home Page + About Me
 
 I created this website to be a publicly accessible repository of my research and personal projects. I'm excited to have this platform to share my work and life with you. 
 
-![My photo](me.png)
+![My photo](me.png) 
 
 # Here's a bit more about me, academically:
 
