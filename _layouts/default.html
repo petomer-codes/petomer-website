@@ -50,11 +50,13 @@
 .dropdown-content {
   display: none;
   position: absolute;
+  top: 100%; /* ensures it appears directly below the parent */
+  left: 0;
   background-color: #f88fac;
   box-shadow: 0px 8px 16px rgba(0,0,0,0.2);
   z-index: 1;
-  margin-top: 8px;
   border-radius: 4px;
+  min-width: 160px;
 }
 
 .dropdown-content a {
