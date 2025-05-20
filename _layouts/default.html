@@ -37,21 +37,63 @@
       margin: 0 auto;
       padding: 20px;
     }
+    .nav-links {
+  display: flex;
+  align-items: center;
+}
+
+.dropdown {
+  position: relative;
+  display: inline-block;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f88fac;
+  box-shadow: 0px 8px 16px rgba(0,0,0,0.2);
+  z-index: 1;
+  margin-top: 8px;
+  border-radius: 4px;
+}
+
+.dropdown-content a {
+  color: white;
+  padding: 8px 16px;
+  text-decoration: none;
+  display: block;
+  white-space: nowrap;
+}
+
+.dropdown-content a:hover {
+  background-color: #e07796;
+}
+
+.dropdown:hover .dropdown-content {
+  display: block;
+}
   </style>
 </head>
 <body>
 
-  <!-- Navigation Menu -->
-  <div class="navbar">
-    <div style="color: white; font-weight: bold;">Paige Tomer</div>
-    <div>
-      <a href="/petomer-website/">Home</a>
+<div class="navbar">
+  <div style="color: white; font-weight: bold;">Paige Tomer</div>
+  <div class="nav-links">
+    <a href="/petomer-website/">Home</a>
+
+    <div class="dropdown">
       <a href="/research/">Research</a>
-      <a href="/posts">Posts</a>
-      <a href="/projects">Projects</a>
-      <a href="mailto:petomer@icloud.com">Contact</a>
+      <div class="dropdown-content">
+        <a href="/research/honorsthesis">Causal inference in soccer</a>
+      </div>
     </div>
+
+    <a href="/posts">Posts</a>
+    <a href="/projects">Projects</a>
+    <a href="mailto:petomer@icloud.com">Contact</a>
   </div>
+</div>
+
 
   <!-- Page Content -->
   <div class="container">
