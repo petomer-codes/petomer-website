@@ -14,21 +14,21 @@ I hope this was a temporary blip in the public health world, and that your cycle
 ## My Background: 
 I am an American citizen born and raised in Pittsburgh, PA, but I attended middle and high school in Seattle, WA. I received my Bachelor of Arts from Macalester College, a small liberal arts school in Minneapolis-St. Paul, Minnesota. 
 My major was Applied Mathematics and Statistics, with minors in Anthropology and Community & Global Health. I graduated _summa cum laude_ with Honors in Statistics, which I received after completing an Honors thesis my senior year.
-My thesis stemmed from a Causal Inference class I took in my junior year spring, looking at the causes of home advantage in (specifically women's) professional soccer. I also had two health-focused research experiences at outside institutions (SIBDS @ Columbia; Study abroad independent study project @ Leiden University College -- The Hague)
-\
+My thesis stemmed from a Causal Inference class I took in my junior year spring, looking at the causes of home advantage in (specifically women's) professional soccer. I also had two health-focused research experiences at outside institutions (SIBDS @ Columbia; Study abroad independent study project @ Leiden University College -- The Hague).\
 After graduating from Macalester, I moved to Durham-Chapel Hill, North Carolina, to start a position as a post-baccalaureate research fellow at the National Institute of Environmental Health Sciences. There, I contributed to the Puberty and Cancer Group, part of the larger Epidemiology Branch. 
 Despite being on the Epi side, my mentor and I worked together to develop projects for me that were highly technical with co-authors from the closely conjoined Biostatistics and Computational Biology Branch. 
 \
-## My strengths: 
+## My Strengths: 
 After doing a lot of reading, I decided that my strengths were as follows: 
 * **Research fellowship:** My current job as a research fellow through the IRTA program has made me a better researcher and statistician. In this role, I have gotten to both lead and support publications.
 * **Math & stats background:** For my degree, I had to take a lot of the classes that most programs either required or preferred, along with some statistics electives along the way. Taking these classes recently and doing well in them was a major strength of my application. 
-* **Teaching history:** I have done a lot of tutoring and TA-ing for mathematics and statistics classes. These experiences further solidified my knowledge in these classes and demonstrated to schools that I am a capable TA.
+* **Recommendation letters:** I got three strong letters from a former research advisor + professor, a former Real Analysis/Calculus professor, and my current PI. I covered the bases in these letters, with two speaking to my strengths and potential as a researcher, while the third talked about my mathematics background. 
 
-## My weaknesses
+
+## My Weaknesses:
 * **No master's degree:** Not having an MS makes it a bigger commitment for schools to take you on -- it's at least another year of coursework combined with added uncertainty if a student is serious about a PhD.
-* **Liberal arts background:** I am hesitant about putting this here -- but I was told not to apply to some schools because they do not accept many liberal arts students. On the flip side, some schools love liberal arts students.
-* **Differing research interests:** None of my research projects follow the same method or topic. Further, my biggest project at the time of applying was my Honors thesis, which wasn't even on health data (I made sure to address this discrepancy in my personal statement).
+* **Liberal arts background:** I am hesitant about putting this here -- but I was told not to apply to some schools because they do not accept many liberal arts students. On the flip side, some schools love liberal arts students, so it could be both.
+* **Differing research interests:** None of my research projects follow the same method or topic. Further, my Honors thesis was my largest completed project at the time of applying, which did not use health data (I made sure to address this discrepancy in my personal statement).
 
 # Application Process 
 
@@ -55,5 +55,12 @@ My list of schools is as follows:
 | University of Minnesota | Masters |
 | University of Washington | PhD only |
 
-# Statement of purpose + personal statement
-With the list of schools finalized, 
+## Materials
+After I finalized the list of schools, it was time to start putting together my application materials. If possible, I highly recommend starting early and asking professionals in that field to look over your materials. 
+### CV
+The [CV] (/petomer-website/Tomer_CV_November2024.pdf) I used to apply to schools is linked. A few comments I received during this process were to: 
+* If you are in the early stages of publications, describe the project and your role.
+* Include coursework information in the education section -- for me, the education section was my biggest strength with no peer-reviewed publications out and no MS, so this might change depending on the student.
+* Use active language to describe responsibilities.
+
+
