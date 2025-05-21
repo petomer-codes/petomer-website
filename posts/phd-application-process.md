@@ -19,20 +19,20 @@ My thesis stemmed from a Causal Inference class I took in my junior year spring,
 After graduating from Macalester, I moved to Durham-Chapel Hill, North Carolina, to start a position as a post-baccalaureate research fellow at the National Institute of Environmental Health Sciences. There, I contributed to the Puberty and Cancer Group, part of the larger Epidemiology Branch. 
 Despite being on the Epi side, my mentor and I worked together to develop projects for me that were highly technical with co-authors from the closely conjoined Biostatistics and Computational Biology Branch. 
 \
-# My strengths: 
+## My strengths: 
 After doing a lot of reading, I decided that my strengths were as follows: 
 * **Research fellowship:** My current job as a research fellow through the IRTA program has made me a better researcher and statistician. In this role, I have gotten to both lead and support publications.
 * **Math & stats background:** For my degree, I had to take a lot of the classes that most programs either required or preferred, along with some statistics electives along the way. Taking these classes recently and doing well in them was a major strength of my application. 
 * **Teaching history:** I have done a lot of tutoring and TA-ing for mathematics and statistics classes. These experiences further solidified my knowledge in these classes and demonstrated to schools that I am a capable TA.
 
-# My weaknesses
+## My weaknesses
 * **No master's degree:** Not having an MS makes it a bigger commitment for schools to take you on -- it's at least another year of coursework combined with added uncertainty if a student is serious about a PhD.
 * **Liberal arts background:** I am hesitant about putting this here -- but I was told not to apply to some schools because they do not accept many liberal arts students. On the flip side, some schools love liberal arts students.
 * **Differing research interests:** None of my research projects follow the same method or topic. Further, my biggest project at the time of applying was my Honors thesis, which wasn't even on health data (I made sure to address this discrepancy in my personal statement).
 
-## Application Process 
+# Application Process 
 
-# Where did I apply and why? 
+## Where did I apply and why? 
 I decided to apply to graduate programs in Biostatistics in September 2024 -- a little late. After conversations with mentors and family, I settled on my priorities in a program and decided that I wanted to go to a graduate program if it met all of my criteria. Therefore, I only  applied to 5 PhD programs and 1 Master's program, all in Biostatistics. Though 4/5 PhD programs had options to be considered for their Master's program if rejected from their PhD program, I selected that I would want to be considered for the MS for all four. \
 
 In choosing programs, I was looking at:
