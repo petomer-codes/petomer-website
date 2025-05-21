@@ -55,13 +55,13 @@ My list of schools is as follows:
 ## Materials
 After I finalized the list of schools, it was time to start putting together my application materials. If possible, I highly recommend starting early and asking professionals in that field to look over your materials. 
 ### CV
-The [CV] (/petomer-website/Tomer_CV_November2024.pdf) I used to apply to schools is linked. A few comments I received while revising my CV were to: 
+The [CV](/petomer-website/Tomer_CV_November2024.pdf) I used to apply to schools is linked. A few comments I received while revising my CV were to: 
 * If you are in the early stages of publications, describe the project and your role.
-* Look at exampkes of CVs from new-er faculty in the field and structure your CV based on that. 
+* Look at examples of CVs from new-er faculty in the field and structure your CV based on that. 
 * Describe responsibilities using active language.
 
 ### Statement of purpose
-The statement of purpose (IMO) is the most important part of your application -- which is a good thing! You have an opportunity to talk about _who you are_ and _why you want to get a PhD_. However, I definitely found this to be a lot of pressure. \
+The statement of purpose (IMO) is the most important part of your application -- which is a good thing! You have an opportunity to talk about _who you are_ and _why you want to get a PhD_. However, I found this to be a lot of pressure. \
 Schools have different prompts for what they want you to talk about (which I amde sure to tailor each draft to their requests), but the overall message is generally the same: 
 * Why are you pursuing a PhD.
 * Why will you be a successful candidate in a PhD program.
