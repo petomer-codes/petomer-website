@@ -9,7 +9,6 @@ First, though, I wanted to begin with a disclaimer: \
 I only applied for American universities for fall 2025 matriculation. My application process began normally, but the transition of power that occurred in January in the States drastically impacted the rest of my cycle. 
 This administration proposed detrimental cuts to the NIH, which frightened (rightly so) and halted grants to many universities -- meaning that admissions were frozen for a long time, cohorts were cut, and offers were rescinded. 
 I hope this was a temporary blip in the public health world, and that your cycle will be less impacted than mine, but it does mean some of my experiences will (_hopefully_) not be generalizable. 
-\
 
 ## My Background: 
 I am an American citizen born and raised in Pittsburgh, PA, but I attended middle and high school in Seattle, WA. I received my Bachelor of Arts from Macalester College, a small liberal arts school in Minneapolis-St. Paul, Minnesota. 
@@ -17,7 +16,7 @@ My major was Applied Mathematics and Statistics, with minors in Anthropology and
 My thesis stemmed from a Causal Inference class I took in my junior year spring, looking at the causes of home advantage in (specifically women's) professional soccer. I also had two health-focused research experiences at outside institutions (SIBDS @ Columbia; Study abroad independent study project @ Leiden University College -- The Hague).\
 After graduating from Macalester, I moved to Durham-Chapel Hill, North Carolina, to start a position as a post-baccalaureate research fellow at the National Institute of Environmental Health Sciences. There, I contributed to the Puberty and Cancer Group, part of the larger Epidemiology Branch. 
 Despite being on the Epi side, my mentor and I worked together to develop projects for me that were highly technical with co-authors from the closely conjoined Biostatistics and Computational Biology Branch. 
-\
+
 ## My Strengths: 
 After doing a lot of reading, I decided that my strengths were as follows: 
 * **Research fellowship:** My current job as a research fellow through the IRTA program has made me a better researcher and statistician. In this role, I have gotten to both lead and support publications.
@@ -27,7 +26,7 @@ After doing a lot of reading, I decided that my strengths were as follows:
 
 ## My Weaknesses:
 * **No master's degree:** Not having an MS makes it a bigger commitment for schools to take you on -- it's at least another year of coursework combined with added uncertainty if a student is serious about a PhD.
-* **Liberal arts background:** I am hesitant about putting this here -- but I was told not to apply to some schools because they do not accept many liberal arts students. On the flip side, some schools love liberal arts students, so it could be both.
+* **Liberal arts background:** I am hesitant about putting this here -- but I was told not to apply to some schools because they do not accept many liberal arts students. On the flip side, some schools like liberal arts students, but it was a point of consideration during my process.
 * **Differing research interests:** None of my research projects follow the same method or topic. Further, my Honors thesis was my largest completed project at the time of applying, which did not use health data (I made sure to address this discrepancy in my personal statement).
 
 # Application Process 
@@ -62,5 +61,19 @@ The [CV] (/petomer-website/Tomer_CV_November2024.pdf) I used to apply to schools
 * If you are in the early stages of publications, describe the project and your role.
 * Include coursework information in the education section -- for me, the education section was my biggest strength with no peer-reviewed publications out and no MS, so this might change depending on the student.
 * Use active language to describe responsibilities.
+### Personal Statement
+The personal statement is probably the most important part of your application -- which is a good thing! You have an opportunity to talk about _who you are_ and _why you want to get a PhD_. However, it is most definitely a lot of pressure. \
+Schools have different prompts for what they want you to talk about, but the overall message should be the same: 
+* Who you are and why it has led you to pursue a PhD.
+* Why will you be a successful candidate in a PhD program.
+* Why the school in question is the right fit for your PhD studies.
+To write my first draft of the statement, I based it on one school's prompt to not get so overwhelmed. I felt that if I could nail down the three questions above, it would be easier to write the statement for the other schools. \
+After finalizing a draft of this initial statement through agonizing read-throughs and edits from my mentors, I then went school by school to make personalized statements for each of them. This meant a lot of copy and pasting the sections about me from the original statement (the reasons I'm pursuing a PhD stayed the same), but the paragraphs about each school shifted. I made sure to highlight why I am applying to the school and how it connects with my long-term goals. For my final paragraph, I tried to place myself in the department by naming faculty who have research of interest. /
+A basic outline of my statement looked like this (reminder: this is what I found that worked best conveyed myself to schools, and it may not work best for everyone):
+1. Introduction: Who I am, how I became interested in biostatistics, and my overall reason for pursuing a PhD.
+2. First paragraph: Why the school/program? I would frequently mention the connections to local institutions here, because that was important to me.
+3. Second paragraph: Why I am a good fit for the school -- more details about who I am as a biostatistician.
+4. Third + fourth paragraph: Specific research projects that I have completed, using active language.
+5. 
 
 
