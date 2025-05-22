@@ -3,7 +3,7 @@ layout: default
 title: Biostatistics PhD Application Process
 ---
 # My experience applying to Biostatistics PhD programs
-I am so excited to share that I will be attending the Unviersity of Washington's Biostatistics PhD program this fall. This application experience was truly full of ups and downs, and posts by  by [Kat Hoffman](https://www.khstats.com/blog/phd-apps/), [Daniel Posmik](https://posmikdc.github.io/), and [Simon Couch](https://www.simonpcouch.com/blog/2021-03-15-apply-to-stats-grad-school/) helped me through. Since applicaiton season is now behind me, I wanted to contribute my own experience to the Biostatistics-PhD-Application-Process metasphere. \
+I am so excited to be attending the Unviersity of Washington's Biostatistics PhD program this fall. This application experience was truly full of ups and downs, and posts by  by [Kat Hoffman](https://www.khstats.com/blog/phd-apps/), [Daniel Posmik](https://posmikdc.github.io/), and [Simon Couch](https://www.simonpcouch.com/blog/2021-03-15-apply-to-stats-grad-school/) helped me through. Since application season is now behind me, I wanted to contribute my own experience to the Biostatistics-PhD-Application-Process metasphere. \
 \
 First, though, I wanted to begin with a disclaimer: \
 * I only applied for American universities for fall 2025 matriculation. My application process began normally, but the transition of power that occurred in January in the States drastically impacted the rest of my cycle. This administration proposed detrimental cuts to the NIH, which frightened (rightly so) and halted grants to many universities -- meaning that admissions were frozen for a long time, cohorts were cut, and offers were rescinded. I hope this was a temporary blip in the public health world, and that your cycle will be less impacted than mine, but it does mean some of my experiences will (_hopefully_) not be generalizable. 
@@ -18,7 +18,7 @@ Despite being on the Epi side, my mentor and I worked together to develop projec
 ## My Strengths: 
 After doing a lot of reading, I decided that my strengths were as follows: 
 * **Research fellowship:** My current job as a research fellow through the IRTA program has made me a better researcher and statistician. In this role, I have gotten to both lead and support publications.
-* **Math & stats background:** For my bacehlors degree, I had to take a lot of the classes that programs either required or preferred, along with some statistics electives along the way. Taking these classes recently and doing well in them was a major strength of my application. 
+* **Math & stats background:** For my bachelor's degree, I had to take a lot of the classes that programs either required or preferred, along with some statistics electives along the way. Taking these classes recently and doing well in them was a major strength of my application. 
 * **Recommendation letters:** I had three strong letters from a former research advisor + professor, a former Real Analysis/Calculus professor, and my current PI. I covered the bases in these letters, with two speaking to my strengths and potential as a researcher, while the third talked about my mathematics background. 
 
 
@@ -55,9 +55,9 @@ My list of schools is as follows:
 ## Materials
 After I finalized the list of schools, it was time to start putting together my application materials. If possible, I highly recommend starting early and asking professionals in that field to look over your materials. 
 ### CV
-The [CV](/petomer-website/Tomer_CV_November2024.pdf) I used to apply to schools is linked. A few comments I received while revising my CV were to: 
+Here is the [CV](/petomer-website/Tomer_CV_November2024.pdf) I used to apply to schools.  A few comments I received while revising my CV were: 
 * If you are in the early stages of publications, describe the project and your role.
-* Look at examples of CVs from new-er faculty in the field and structure your CV based on that. 
+* Look at examples of CVs from young faculty in the field and structure your CV based on that. 
 * Describe responsibilities using active language.
 
 ### Statement of purpose
