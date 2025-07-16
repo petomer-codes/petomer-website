@@ -75,18 +75,11 @@ A basic outline of my statement looked like this (reminder: this is what I found
 5. Fifth-sixth body paragraphs: How my previous experiences have shaped my research interests -> how my research interests fit into the school in question (naming specific faculty + centers)
 6. Seventh body paragraph: A short summary statement further contextualizing how I will be successful at the school, and how the school will shape me.
 \
-I was also grateful to have proof-readers both outside of the field (shoutout to my parents for helping me edit when I couldn't look at it anymore) and whithin the field -- my current PI helped me restructure the statement early on to flow better. \
+I was also grateful to have proofreaders both outside of the field (shoutout to my parents for helping me edit when I couldn't look at it anymore) and within the field -- my current PI helped me restructure the statement early on to flow better. \
 
-A few miscellaneous tips I have that worked well for me: 
-* Have the school's specific prompt at the top of the document, and refer back to it constantly.
-* Leave things out -- your CV has all of your experiences, so choose the ones that are most important / align with your story. 
-* Research the school beforehand, so you have the specific faculty/centers in mind while writing your statement. 
-* Active language! This was a big one for me, as I typically fall into passive voice when writing in general, but specifically when writing about myself. I read my SOP out loud to myself repeatedly and asked humanities-background friends to proofread it for me.
-* For every overall project that you talk about, elucidate _specifcally_ how you contributed. 
-* Do not say anything more than once -- space is limited, and why repeat something when you can say something new about yourself. 
 
 ### Personal statement
-I found that personal statement prompts widely differed between schools, with some not requiring them. The prompts typically centered around diversity and inclusion, asking about how my background and experiences make me able to contribute to/benefit from a school's community. In this case, I talked about my volunteering and tutoring experiences, showcasing how math (and making it accessible) has been a theme throughout my life. 
+I found that personal statement prompts widely differed between schools, with some not even requiring them. The prompts typically centered around diversity and inclusion, asking about how my background and experiences make me able to contribute to/benefit from a school's community. In this case, I talked about my volunteering and tutoring experiences, showcasing how making math accessible has been a theme throughout my life. 
 
 # Interview process
 After submitting my applications in November, it was time to wait for schools to review them. I was lucky to be traveling home for the holidays with plenty of distractions, which helped me navigate the month of December. However, I was refreshing my email constantly, waiting for responses. I learned that universities not only differ from each other in their timeline, but also differ from their previous year timelines. \
@@ -96,6 +89,19 @@ Interviews at all three schools looked wildly different. At Brown, I attended th
 
 My next interview was with the University of Washington in early February. This was a more formal interview style than I experienced at Brown. I met with two faculty members (the chair and a professor in the department) who had a set list of questions they wanted to ask me. The interview was scheduled to be 30 minutes, but it lasted about an hour. Their questions ended around the 20-minute mark, but they asked if I had any questions -- so the last part of that hour was more of an informal conversation than the first part, with conversation stemming from the questions I asked them. \
 
-My last interview was in person at Columbia. The day was very similar to Brown's interview day, with an overview of the department from the chair, research talks from faculty, and time to meet with students. There were 3 20-minute interviews built in as well. These were very conversational, though I had studied at Columbia before, so I knew two of the faculty I was interviewing wit,h which may have helped. 
+My last interview was in person at Columbia. The day was very similar to Brown's interview day, with an overview of the department from the chair, research talks from faculty, and time to meet with students. There were 3 20-minute interviews built in as well. These were very conversational, though I had studied at Columbia before, so I knew two of the faculty I was interviewing with, which helped. 
 
+# Next Steps
+Okay, now we have reached the point where my experience was heavily impacted by external factors. In early February, Donald Trump announced intentions to cut grants, reform the NIH, and cap indirect costs. This led to the admissions of every school on my list to be put on pause -- as they weren't sure what was going to happen. Therefore, the rest of my experience is (hopefully) not generalizable. The months of February - April were so filled with anxiety, watching the field I applied for slowly disappear. Therefore, for my sanity, I'm only going to write a short rundown of the admission decisions from each school. \
 
+First, I received admission to U of M's MS program, but did not receive any funding support, which was a dealbreaker for me. \
+
+Then, fter reaching out to BU, I learned that they were not admitting anyone off the waitlist, but I was offered a fair scholarship to their MS program by the end. Brown did not give many details about the admission freeze post-interview, and I did not hear from them until receiving a rejection in early April. I assume I was on some sort of waiting list for both Brown and UNC (from which I received a rejection in late April). \
+
+Columbia was honest and positive with me, letting me know that I would have received admission in a _normal_ year. They delayed finalizing a decision for me until I reached out a week before decision day, letting them know I received a UW offer. They then let me know that there are no more spots in this program. This was the hardest rejection for me:  getting so close while having experience with the school made me very disappointed by this outcome. 
+
+Ok, so... there's only one left: \
+
+About a week after UW's interview, I received an invitation to visit day in late March (delayed due to uncertainty). The visit day was without an offer of admission and had scheduled interviews with faculty; basically, it was an interview day pt II. The day was similar to that of Brown/Columbia, with talks about the program, research, and geography throughout the day. My interviews were 15 minutes long with a faculty member of my choice and another visiting prospective student. \
+
+A week later, I received my first(!) and only admission letter, with the funding letter following suit. I have since learned that, out of ~13 students who were there on Visit Day, only 3 were extended offers. I wish I could share more about what I said or did during interview/Visit Day that made me one of these three, but I honestly have no idea. I am still stunned by it. I am so thankful for this opportunity. 
