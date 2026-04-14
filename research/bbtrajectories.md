@@ -30,9 +30,9 @@ The paper is forthcoming and will be linked here when accesible.
 This project was exciting because it combined longitudinal modeling with a developmental health question in an area where little is known. Rather than assuming all infants follow the same pattern, the LCMM approach made it possible to describe heterogeneity in breast tissue trajectories and generate more focused questions for future research. I also got the amazing opporunity to present this work at the National Institutes of Health in Bethesda, and the annual meetings for the Society of Epidemiological Research and the Society of Perinatal and Pediatric Epidemiological Research. 
 
 Below is a picture of me at SER and the NIH main campus!
-
-<img src="sper-small.jpeg" alt="SPER">
-
-<img src="nih-small.jpeg" alt="NIH">
+<div style="display: flex; gap: 10px; align-items: center;">
+  <img src="sper.jpeg" alt="SPER" width="150">
+  <img src="nih.jpeg" alt="NIH" width="150">
+</div>
 
 
