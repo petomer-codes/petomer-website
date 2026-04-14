@@ -31,8 +31,8 @@ This project was exciting because it combined longitudinal modeling with a devel
 
 Below is a picture of me at SER and the NIH main campus!
 <div style="display: flex; gap: 10px; align-items: center;">
-  <img src="sper.jpeg" alt="SPER" width="150">
-  <img src="nih.jpeg" alt="NIH" width="150">
+  <img src="sper.jpeg" alt="SPER" width="250">
+  <img src="nih.jpeg" alt="NIH" width="250">
 </div>
 
 
