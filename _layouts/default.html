@@ -105,6 +105,12 @@
       backdrop-filter: blur(4px);
     }
 
+    .container::after {
+      content: "";
+      display: block;
+      clear: both;
+    }
+
     .nav-links {
       display: flex;
       align-items: center;
