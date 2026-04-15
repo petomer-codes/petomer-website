@@ -6,15 +6,15 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <style>
     :root {
-      --pink-main: #f88fac;
-      --pink-dark: #df6f92;
-      --pink-soft: #fdebf0;
-      --pink-border: #f4c2d1;
+      --pink-main: #8f3d5c;
+      --pink-dark: #6f2945;
+      --pink-soft: #fcf3f6;
+      --pink-border: #ead5dc;
       --paper: rgba(255, 255, 255, 0.82);
       --text-main: #555555;
       --text-strong: #404040;
-      --shadow-soft: 0 14px 40px rgba(190, 98, 127, 0.12);
-      --shadow-nav: 0 6px 24px rgba(184, 90, 123, 0.16);
+      --shadow-soft: 0 14px 40px rgba(124, 63, 88, 0.1);
+      --shadow-nav: 0 6px 24px rgba(95, 40, 61, 0.18);
     }
 
     * {
@@ -27,8 +27,8 @@
       padding: 0;
       min-height: 100vh;
       background:
-        radial-gradient(circle at top left, rgba(248, 143, 172, 0.18), transparent 24%),
-        linear-gradient(180deg, #fff7f9 0%, var(--pink-soft) 46%, #fce6ed 100%);
+        radial-gradient(circle at top left, rgba(143, 61, 92, 0.08), transparent 24%),
+        linear-gradient(180deg, #fffdfd 0%, var(--pink-soft) 46%, #f9eef2 100%);
       color: var(--text-main);
       line-height: 1.5;
     }
@@ -62,13 +62,13 @@
       align-items: center;
       gap: 10px;
       color: white;
-      font-weight: 700;
-      font-size: 1.15rem;
-      letter-spacing: 0.02em;
     }
 
     .brand-name {
       color: white;
+      font-size: 0.98rem;
+      font-weight: 400;
+      letter-spacing: 0;
     }
 
     .brand-link {
@@ -118,6 +118,16 @@
       gap: 8px;
     }
 
+    .menu-toggle {
+      display: none;
+      border: 0;
+      background: rgba(255, 255, 255, 0.14);
+      color: white;
+      padding: 8px 12px;
+      font-size: 0.98rem;
+      cursor: pointer;
+    }
+
     .nav-links > a,
     .dropdown > a {
       display: inline-block;
@@ -145,6 +155,7 @@
       top: 100%;
       left: 0;
       background: rgba(242, 110, 152, 0.97);
+      background: rgba(111, 41, 69, 0.97);
       box-shadow: 0 12px 30px rgba(128, 54, 82, 0.22);
       z-index: 1;
       border-radius: 16px;
@@ -227,7 +238,7 @@
     }
 
     a:hover {
-      color: #c45579;
+      color: #9b4967;
     }
 
     strong {
@@ -248,18 +259,35 @@
 
     @media (max-width: 760px) {
       .navbar {
-        align-items: flex-start;
-        flex-direction: column;
+        align-items: center;
+        flex-wrap: wrap;
         padding: 16px 18px;
       }
 
+      .menu-toggle {
+        display: inline-block;
+        margin-left: auto;
+      }
+
       .nav-links {
+        display: none;
         width: 100%;
+        flex-direction: column;
+        align-items: stretch;
         gap: 6px;
+        padding-top: 10px;
+      }
+
+      .nav-links.is-open {
+        display: flex;
       }
 
       .navbar a {
         margin-left: 0;
+      }
+
+      .brand {
+        width: auto;
       }
 
       .dropdown {
@@ -270,12 +298,17 @@
 
       .dropdown-content {
         position: static;
-        display: block;
+        display: none;
         min-width: 0;
         margin-top: 6px;
         background: rgba(255, 255, 255, 0.12);
         box-shadow: none;
         padding: 4px 0 0;
+      }
+
+      .dropdown:hover .dropdown-content,
+      .dropdown:focus-within .dropdown-content {
+        display: block;
       }
 
       .dropdown-content a {
@@ -301,7 +334,8 @@
       </svg>
     </a>
   </div>
-  <div class="nav-links">
+  <button class="menu-toggle" type="button" aria-expanded="false" aria-controls="site-nav">Menu</button>
+  <div class="nav-links" id="site-nav">
     <a href="/petomer-website/">Home</a>
 
     <div class="dropdown">
@@ -337,6 +371,18 @@
     <h1{% if page.url == "/" %} class="home-title"{% endif %}>{{ page.title }}</h1>
     {{ content }}
   </div>
+
+  <script>
+    const menuToggle = document.querySelector(".menu-toggle");
+    const siteNav = document.querySelector("#site-nav");
+
+    if (menuToggle && siteNav) {
+      menuToggle.addEventListener("click", function () {
+        const isOpen = siteNav.classList.toggle("is-open");
+        menuToggle.setAttribute("aria-expanded", isOpen ? "true" : "false");
+      });
+    }
+  </script>
 
 </body>
 </html>
