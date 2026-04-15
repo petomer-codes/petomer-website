@@ -20,6 +20,6 @@ The work reflects my interest in measurement error and in the practical side of 
 - Estimated slopes were often below 1 at earlier visits, suggesting the two methods did not always scale identically
 - Sample size changed across visits because bead-based measurements were unavailable for infants without a palpable bud and some visits had additional missingness
 
-## Why it mattered to me
+## Personal + practical importance
 
 This project strengthened my understanding of how measurement decisions shape downstream analysis. It also gave me experience presenting statistical comparison results in a way that is directly useful for substantive researchers working with developing health measures.
