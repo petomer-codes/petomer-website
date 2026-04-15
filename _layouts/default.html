@@ -5,81 +5,241 @@
   <title>{{ page.title }}</title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <style>
+    :root {
+      --pink-main: #f88fac;
+      --pink-dark: #df6f92;
+      --pink-soft: #fdebf0;
+      --pink-border: #f4c2d1;
+      --paper: rgba(255, 255, 255, 0.82);
+      --text-main: #555555;
+      --text-strong: #404040;
+      --shadow-soft: 0 14px 40px rgba(190, 98, 127, 0.12);
+      --shadow-nav: 0 6px 24px rgba(184, 90, 123, 0.16);
+    }
+
+    * {
+      box-sizing: border-box;
+    }
+
     body {
-      font-family: Helvetica, sans-serif;
+      font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
       margin: 0;
       padding: 0;
-      background-color: #fdebf0; 
-      color: #636363;
-      line-height: 1.4;
+      min-height: 100vh;
+      background:
+        radial-gradient(circle at top left, rgba(248, 143, 172, 0.18), transparent 24%),
+        linear-gradient(180deg, #fff7f9 0%, var(--pink-soft) 46%, #fce6ed 100%);
+      color: var(--text-main);
+      line-height: 1.65;
     }
 
     .navbar {
       display: flex;
       justify-content: space-between;
       align-items: center;
-      background-color: #f88fac;
-      padding: 10px 20px;
+      gap: 20px;
+      background: linear-gradient(135deg, var(--pink-main), var(--pink-dark));
+      padding: 16px 28px;
+      box-shadow: var(--shadow-nav);
+      position: sticky;
+      top: 0;
+      z-index: 10;
     }
 
     .navbar a {
       color: white;
       text-decoration: none;
-      margin-left: 15px;
+      margin-left: 18px;
+      font-size: 0.98rem;
     }
 
     .navbar a:hover {
-      text-decoration: underline;
+      opacity: 0.95;
+    }
+
+    .brand {
+      color: white;
+      font-weight: 700;
+      font-size: 1.15rem;
+      letter-spacing: 0.02em;
     }
 
     .container {
-      max-width: 800px;
-      margin: 0 auto;
-      padding: 20px;
+      max-width: 920px;
+      margin: 34px auto 56px;
+      padding: 34px 38px 42px;
+      background: var(--paper);
+      border: 1px solid rgba(244, 194, 209, 0.9);
+      border-radius: 24px;
+      box-shadow: var(--shadow-soft);
+      backdrop-filter: blur(4px);
     }
+
     .nav-links {
-  display: flex;
-  align-items: center;
-}
+      display: flex;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 8px;
+    }
 
-.dropdown {
-  position: relative;
-  display: inline-block;
-}
+    .nav-links > a,
+    .dropdown > a {
+      display: inline-block;
+      padding: 8px 10px;
+      border-radius: 999px;
+      transition: background-color 160ms ease, transform 160ms ease;
+    }
 
-.dropdown-content {
-  display: none;
-  position: absolute;
-  top: 100%; /* ensures it appears directly below the parent */
-  left: 0;
-  background-color: #f88fac;
-  box-shadow: 0px 8px 16px rgba(0,0,0,0.2);
-  z-index: 1;
-  border-radius: 4px;
-  min-width: 160px;
-}
+    .nav-links > a:hover,
+    .dropdown > a:hover {
+      background-color: rgba(255, 255, 255, 0.16);
+      transform: translateY(-1px);
+    }
 
-.dropdown-content a {
-  color: white;
-  padding: 8px 16px;
-  text-decoration: none;
-  display: block;
-  white-space: nowrap;
-}
+    .dropdown {
+      position: relative;
+      display: inline-block;
+    }
 
-.dropdown-content a:hover {
-  background-color: #e07796;
-}
+    .dropdown-content {
+      display: none;
+      position: absolute;
+      top: calc(100% + 8px);
+      left: 0;
+      background: rgba(242, 110, 152, 0.97);
+      box-shadow: 0 12px 30px rgba(128, 54, 82, 0.22);
+      z-index: 1;
+      border-radius: 16px;
+      min-width: 240px;
+      padding: 8px;
+    }
 
-.dropdown:hover .dropdown-content {
-  display: block;
-}
+    .dropdown-content a {
+      color: white;
+      padding: 10px 12px;
+      text-decoration: none;
+      display: block;
+      white-space: nowrap;
+      margin: 0;
+      border-radius: 10px;
+    }
+
+    .dropdown-content a:hover {
+      background-color: rgba(255, 255, 255, 0.14);
+    }
+
+    .dropdown:hover .dropdown-content {
+      display: block;
+    }
+
+    h1 {
+      margin: 0 0 24px;
+      color: var(--text-strong);
+      font-size: clamp(2rem, 4vw, 2.85rem);
+      line-height: 1.08;
+      letter-spacing: -0.02em;
+    }
+
+    h2 {
+      color: var(--text-strong);
+      margin-top: 28px;
+      margin-bottom: 12px;
+      font-size: 1.45rem;
+    }
+
+    h3 {
+      color: var(--text-strong);
+      margin-top: 28px;
+      margin-bottom: 10px;
+      font-size: 1.08rem;
+      text-transform: uppercase;
+      letter-spacing: 0.06em;
+    }
+
+    p,
+    li {
+      font-size: 1.02rem;
+    }
+
+    ul,
+    ol {
+      padding-left: 1.4rem;
+    }
+
+    li + li {
+      margin-top: 8px;
+    }
+
+    a {
+      color: var(--pink-dark);
+    }
+
+    a:hover {
+      color: #c45579;
+    }
+
+    strong {
+      color: var(--text-strong);
+    }
+
+    img {
+      max-width: 100%;
+      height: auto;
+      box-shadow: 0 12px 28px rgba(156, 91, 115, 0.18);
+    }
+
+    hr {
+      border: 0;
+      border-top: 1px solid var(--pink-border);
+      margin: 28px 0;
+    }
+
+    @media (max-width: 760px) {
+      .navbar {
+        align-items: flex-start;
+        flex-direction: column;
+        padding: 16px 18px;
+      }
+
+      .nav-links {
+        width: 100%;
+        gap: 6px;
+      }
+
+      .navbar a {
+        margin-left: 0;
+      }
+
+      .dropdown {
+        width: 100%;
+      }
+
+      .dropdown-content {
+        position: static;
+        display: block;
+        min-width: 0;
+        margin-top: 6px;
+        background: rgba(255, 255, 255, 0.12);
+        box-shadow: none;
+        padding: 4px 0 0;
+      }
+
+      .dropdown-content a {
+        padding-left: 18px;
+      }
+
+      .container {
+        margin: 18px 14px 32px;
+        padding: 24px 20px 28px;
+        border-radius: 18px;
+      }
+    }
   </style>
 </head>
 <body>
 
 <div class="navbar">
-  <div style="color: white; font-weight: bold;">Paige Tomer</div>
+  <div class="brand">Paige Tomer</div>
   <div class="nav-links">
     <a href="/petomer-website/">Home</a>
 
