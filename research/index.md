@@ -3,7 +3,7 @@ layout: default
 title: Research
 ---
 
-This page brings together my research projects in causal inference, longitudinal modeling, measurement, and spatial health.
+A brief overview of the research posted here:
 
 - [Causal inference + soccer](/petomer-website/research/honorsthesis.html): An undergraduate honors thesis on home advantage in professional soccer that helped introduce me to long-term research and causal thinking.
 - [LCMM + breast growth](/petomer-website/research/bbtrajectories.html): A project using latent class linear mixed models to characterize postnatal breast bud trajectories in infancy.
