@@ -276,6 +276,32 @@
       background: var(--pink-dark);
     }
 
+    .home-intro {
+      display: flex;
+      align-items: flex-start;
+      gap: 24px;
+      margin-bottom: 12px;
+    }
+
+    .home-intro-image {
+      flex: 0 0 250px;
+      width: 250px;
+      margin: 0;
+    }
+
+    .home-intro-copy {
+      min-width: 0;
+      flex: 1;
+    }
+
+    .home-intro-copy p {
+      margin-top: 0;
+    }
+
+    .home-intro-copy h3 {
+      margin-top: 10px;
+    }
+
     a {
       color: var(--pink-dark);
     }
@@ -362,6 +388,15 @@
         margin: 18px 14px 32px;
         padding: 22px 18px 24px;
         border-radius: 0;
+      }
+
+      .home-intro {
+        flex-direction: column;
+      }
+
+      .home-intro-image {
+        width: 100%;
+        max-width: 250px;
       }
     }
   </style>
