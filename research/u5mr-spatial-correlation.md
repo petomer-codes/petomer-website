@@ -3,13 +3,4 @@ layout: default
 title: U5MR and spatial correlation
 ---
 
-This page is reserved for work on under-five mortality rate and spatial correlation.
-
-I am especially interested in research that connects public health outcomes with geographic structure, and this project area reflects that direction. As the work develops, I plan to add the motivating question, methods, visualizations, and key findings here.
-
-## Planned themes
-
-- Under-five mortality
-- Spatial dependence
-- Public health variation across place
-- Statistical modeling for geographic data
+This page is reserved for my current research I'm doing with the STAB lab at UW. Overall, my aim is to analyze spatial field correlation among different age bands for under-5 mortality rate (U5MR), specifically at subnational levels. To do so, we use small area estimation using hazards from the different age bands and smooth over nearby areas (Fay-Herriot) or over individual clusters (unit-level betabinomial models). 
