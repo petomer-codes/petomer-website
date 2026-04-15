@@ -1,6 +1,6 @@
 ---
 layout: default
-title: COVID19 + birth rates
+title: ISP @ Leiden
 ---
 
 This was an independent study project I conducted during my semester abroad at Leiden University College in The Hague, Netherlands, with Dr. Makszin.

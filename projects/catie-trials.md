@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CATIE trials
+title: SIBDS @ Columbia
 ---
 
 <p>
