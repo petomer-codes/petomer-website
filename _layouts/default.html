@@ -355,6 +355,42 @@
       fill: var(--pink-dark);
     }
 
+    .index-table {
+      width: 100%;
+      border-collapse: collapse;
+      margin-top: 18px;
+      background: rgba(255, 255, 255, 0.68);
+    }
+
+    .index-table th,
+    .index-table td {
+      text-align: left;
+      vertical-align: top;
+      padding: 14px 16px;
+      border-bottom: 1px solid rgba(143, 61, 92, 0.14);
+    }
+
+    .index-table th {
+      color: var(--text-strong);
+      font-size: 0.9rem;
+      letter-spacing: 0.04em;
+      text-transform: uppercase;
+      background: rgba(143, 61, 92, 0.06);
+    }
+
+    .index-table tr:last-child td {
+      border-bottom: 0;
+    }
+
+    .index-table a {
+      font-weight: 600;
+      text-decoration: none;
+    }
+
+    .index-table a:hover {
+      text-decoration: underline;
+    }
+
     img {
       max-width: 100%;
       height: auto;
@@ -431,6 +467,28 @@
         border-radius: 0;
       }
 
+      .index-table,
+      .index-table tbody,
+      .index-table tr,
+      .index-table td {
+        display: block;
+        width: 100%;
+      }
+
+      .index-table thead {
+        display: none;
+      }
+
+      .index-table td {
+        padding: 10px 0;
+        border-bottom: 0;
+      }
+
+      .index-table tr {
+        padding: 12px 0;
+        border-bottom: 1px solid rgba(143, 61, 92, 0.14);
+      }
+
       .home-intro {
         flex-direction: column;
       }
@@ -485,7 +543,7 @@
     <div class="dropdown dropdown-right">
       <a href="/petomer-website/projects/">Projects</a>
       <div class="dropdown-content">
-        <a href="/petomer-website/projects/honorsthesis.html">Causal inference + soccer</a>
+        <a href="/petomer-website/projects/honorsthesis.html">Honors @ Mac</a>
         <a href="/petomer-website/projects/catie-trials.html">SIBDS @ Columbia</a>
         <a href="/petomer-website/projects/covid19-birth-rates.html">ISP @ Leiden</a>
       </div>
